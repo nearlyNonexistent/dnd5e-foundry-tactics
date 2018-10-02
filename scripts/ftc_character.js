@@ -106,6 +106,16 @@ FTC.actors = {
         "primary": { "name": "Primary Resource" },
         "secondary": { "name": "Secondary Resource" },
     },
+    
+    "darker": {
+        "stress": { "name": "Stress" },
+        "health": { "name": "Health" },
+        "light": { "name": "Light" },
+        "temp": { "name": "Temperature" },
+        "hunger": { "name": "Hunger" },
+        "thirst": { "name": "Thirst" },
+        "fatigue": { "name": "Fatigue" }
+    },
 
     "source": { "name": "Source" },
     "tags": {},
